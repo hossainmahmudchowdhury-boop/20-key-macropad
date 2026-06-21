@@ -4,25 +4,25 @@ A small 20-key MacroPad built around the Seeeduino XIAO microcontroller.  It has
 
 
 ## Features
-⌨️ 20 programmable mechanical keys (4×5 matrix)/
-🔹 Based on Seeeduino XIAO microcontroller/
-🔹 Compact custom PCB design
-🔹 Matrix scanning with diode protection
-🔹 USB HID keyboard support
-🔹 Custom macros, shortcuts, and media controls
-🔹 Expandable and firmware-customizable
-🔹 Suitable for productivity, gaming, and creative workflows
+⌨️ 20 programmable mechanical keys (4×5 matrix)_
+🔹 Based on Seeeduino XIAO microcontroller_
+🔹 Compact custom PCB design_
+🔹 Matrix scanning with diode protection_
+🔹 USB HID keyboard support_
+🔹 Custom macros, shortcuts, and media controls_
+🔹 Expandable and firmware-customizable_
+🔹 Suitable for productivity, gaming, and creative workflows_
 
 ## Hardware Used
-Seeeduino XIAO (MCU)
-20 × Mechanical Switches
-20 × Diodes (for anti-ghosting)
-I/O Expander (for additional key inputs)
-USB Interface
-Custom-designed PCB
+Seeeduino XIAO (MCU)_
+20 × Mechanical Switches_
+20 × Diodes (for anti-ghosting)_
+I/O Expander (for additional key inputs)_
+USB Interface_
+Custom-designed PCB_
 
 
-##Project Goal
+## Project Goal
 
 The main goal of this project is to make a macropad that people can afford. That is small. This macropad can also be changed to fit each person's needs. The macropad is designed to help people work more efficiently by letting them perform complex keyboard shortcuts with a single key press. It also helps with actions that have to be done over and over.
 
