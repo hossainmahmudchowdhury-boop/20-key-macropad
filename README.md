@@ -3,9 +3,9 @@ A small 20-key MacroPad built around the Seeeduino XIAO microcontroller.  It has
 
 
 
-##Features
-⌨️ 20 programmable mechanical keys (4×5 matrix)
-🔹 Based on Seeeduino XIAO microcontroller
+## Features
+⌨️ 20 programmable mechanical keys (4×5 matrix)/
+🔹 Based on Seeeduino XIAO microcontroller/
 🔹 Compact custom PCB design
 🔹 Matrix scanning with diode protection
 🔹 USB HID keyboard support
@@ -13,7 +13,7 @@ A small 20-key MacroPad built around the Seeeduino XIAO microcontroller.  It has
 🔹 Expandable and firmware-customizable
 🔹 Suitable for productivity, gaming, and creative workflows
 
-##Hardware Used
+## Hardware Used
 Seeeduino XIAO (MCU)
 20 × Mechanical Switches
 20 × Diodes (for anti-ghosting)
