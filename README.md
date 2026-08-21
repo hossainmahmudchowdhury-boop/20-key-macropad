@@ -4,12 +4,12 @@ I have designed a functional macropad design mostly for programming enthusiastic
 
 
 ## Hardware Used
-### Seeeduino XIAO (MCU)_
-# 20 × Mechanical Switches_
-# 20 × Diodes _
-I/O Expander (for additional key inputs)_
-USB Interface_
-Custom-designed PCB_
+### 1.Seeeduino XIAO (MCU)_
+### 2.20 × Mechanical Switches_
+### 3.20 × Diodes _
+### 4.I/O Expander (for additional key inputs)_
+### 5.USB Interface_
+### 6.Custom-designed PCB_
 
 ## Case Design _
 As this project emphasizes short way to conduct any command , I made my own custom case in three parts ,
