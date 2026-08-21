@@ -1,29 +1,20 @@
 # 20-key-macropad
-A small 20-key MacroPad built around the Seeeduino XIAO microcontroller.  It has a custom circuit board.  The MacroPad has 20 keys in a 4×5 grid.  The MacroPad can connect to devices easily .The MacroPads software can be fully programmed. This means you can change what each key does.The Seeeduino XIAO microcontroller makes it all work. 
 
+I have designed a functional macropad design mostly for programming enthusiastics. This design contains 4x5 grid which contains 20 keycaps . Anyone can customize it according to their need . In PCB I have used Seeduino XIAO and for this you can customized the keys in AHK. A potentiometer is also added for operating the macropad with simple matrix design
 
-
-## Features
-⌨️ 20 programmable mechanical keys (4×5 matrix)_
-🔹 Based on Seeeduino XIAO microcontroller_
-🔹 Compact custom PCB design_
-🔹 Matrix scanning with diode protection_
-🔹 USB HID keyboard support_
-🔹 Custom macros, shortcuts, and media controls_
-🔹 Expandable and firmware-customizable_
-🔹 Suitable for productivity, gaming, and creative workflows_
 
 ## Hardware Used
 Seeeduino XIAO (MCU)_
 20 × Mechanical Switches_
-20 × Diodes (for anti-ghosting)_
+20 × Diodes _
 I/O Expander (for additional key inputs)_
 USB Interface_
 Custom-designed PCB_
 
+## Case Design _
+As this project emphasizes short way to conduct any command , I made my own custom case in three parts ,
+the base one and the top part contain 75mm width and 100mm . The hight of the total case is 32mm  .
 
-## Project Goal
 
-The main goal of this project is to make a macropad that people can afford. That is small. This macropad can also be changed to fit each person's needs. The macropad is designed to help people work more efficiently by letting them perform complex keyboard shortcuts with a single key press. It also helps with actions that have to be done over and over.
-
-This project is also a way to show how to design a PCB how to set up a matrix keyboard and how to make embedded firmware work. The project is really about making a macropad.
+## Software
+In this hardware design I use KiCad (Version 10.0) for PCB integration . For case design I have used Fusion . 
