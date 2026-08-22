@@ -40,4 +40,4 @@ the base one and the top part contain 75mm width and 100mm . The hight of the to
 In this hardware design I use KiCad (Version 10.0) for PCB integration . For case design I have used Fusion . 
 
 ## BOM
-[View the full dataset here](BOM.csv)
+![table alt](BOM.csv)
