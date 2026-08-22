@@ -22,7 +22,7 @@ As this project emphasizes short way to conduct any command , I made my own cust
 the base one and the top part contain 75mm width and 100mm . The hight of the total case is 32mm  .
 
 ### Top Case
-![image alt](https://github.com/hossainmahmudchowdhury-boop/20-key-macropad/blob/main/Images/top_macropad.png)
+![image alt](https://github.com/hossainmahmudchowdhury-boop/20-key-macropad/blob/main/Images/top2.png)
 
 
 ### Middle Case
@@ -40,4 +40,4 @@ the base one and the top part contain 75mm width and 100mm . The hight of the to
 In this hardware design I use KiCad (Version 10.0) for PCB integration . For case design I have used Fusion . 
 
 
-
+[View the full dataset here](https://github.com/hossainmahmudchowdhury-boop/20-key-macropad/blob/main/BOM.csv)
