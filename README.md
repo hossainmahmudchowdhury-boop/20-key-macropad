@@ -40,4 +40,20 @@ the base one and the top part contain 75mm width and 100mm . The hight of the to
 In this hardware design I use KiCad (Version 10.0) for PCB integration . For case design I have used Fusion . 
 
 ## BOM
-![table alt](BOM.csv)
+
+| Item                                             | Quantity | Price          | Link |
+|--------------------------------------------------|----------|----------------|------|
+| SEEED XIAO RP2040 (THT)                          | 1        | $$7.25          | [Link](https://www.seeedstudio.com/XIAO-RP2040-v1-0-p-5026.html) |
+| Outemu Silent Peach V3 Switch                              | 10      | $6.09          | [Link](https://www.aliexpress.com/item/1005006905361113.html) |
+| SK6812-MINI-E (RGB LEDs)                         | 25      | $5.26         | [Link](https://www.aliexpress.com/item/1005005193716172.html) |
+| 1N4148 Diode                                     | 100      | $1.20          | [Link](https://www.aliexpress.com/item/4000142272546.html) |
+| SSD1306 OLED Display                             | 1        | $5.15           | [Link](https://www.aliexpress.com/item/1005008640132638.html) |
+| YMDK Blank DSA 1u Keycap                         | 20       | $12.86          | [Link](https://www.aliexpress.com/item/32842379355.html) |
+| 45mm Straight Side Potentiometer                 | 1        | 3.15$           | [Link](https://alishort.com/0HUxU) |
+| EC 11 Encoder with Push Button Half Handle 20MM Shaft | 5 | $6.31 | [Link](https://www.aliexpress.com/item/1005005983134515.html) |
+| M3 Heat Set Inserts | 30 | $6.13 | [Link](https://www.aliexpress.com/item/1005006071488810.html) |
+| M3 Fasteners | 50 | $6.28 | [Link](https://www.aliexpress.com/item/1005011845940916.html) |
+| Top Case                                         | 1        | Printing Legion |  |
+| Bottom Case                                      | 1        | Printing Legion |  |
+| Middle Case                                      |           |  Printing Legion |   |
+| PCB | 3 | $11.02 | JLCPCB |
