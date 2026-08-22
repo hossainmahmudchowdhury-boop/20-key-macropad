@@ -7,6 +7,8 @@ I have designed a functional macropad design mostly for programming enthusiastic
 ## Hardware Used
 
 ![image alt](https://github.com/hossainmahmudchowdhury-boop/20-key-macropad/blob/main/Images/pcb_macropad.png)
+##### Schematic 
+![image alt](https://github.com/hossainmahmudchowdhury-boop/20-key-macropad/blob/main/Images/macropad_schss.png)
 
 #### 1.Seeduino XIAO (MCU)
 #### 2.20 × Mechanical Switches
