@@ -39,5 +39,5 @@ the base one and the top part contain 75mm width and 100mm . The hight of the to
 ## Software
 In this hardware design I use KiCad (Version 10.0) for PCB integration . For case design I have used Fusion . 
 
-
-[View the full dataset here](https://github.com/hossainmahmudchowdhury-boop/20-key-macropad/blob/main/BOM.csv)
+## BOM
+[View the full dataset here](BOM.csv)
